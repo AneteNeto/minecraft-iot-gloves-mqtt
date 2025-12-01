@@ -1,6 +1,7 @@
 <p align="center">
   <img src="docs/images/minecraft_pi.png" width="650">
 </p>
+
 # Minecraft IoT Multiplayer – ESP8266 + Raspberry Pi + MQTT
 
 This project connects Minecraft gameplay with physical IoT devices using ESP8266, MQTT, Python, and Raspberry Pi.
