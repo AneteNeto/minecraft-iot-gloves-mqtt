@@ -1,5 +1,5 @@
-![MQTT Flow Diagram](docs/images/minecraft_pi.png)
 
+![MQTT Flow Diagram](docs/images/minecraft_pi.png)
 # Minecraft IoT Multiplayer – ESP8266 + Raspberry Pi + MQTT
 
 This project connects Minecraft gameplay with physical IoT devices using ESP8266, MQTT, Python, and Raspberry Pi.
