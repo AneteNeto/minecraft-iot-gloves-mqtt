@@ -1,4 +1,4 @@
-![MQTT Flow Diagram](docs/images/mqtt_flow.png)
+![MQTT Flow Diagram](docs/images/minecraft_pi.png)
 
 # Minecraft IoT Multiplayer – ESP8266 + Raspberry Pi + MQTT
 
